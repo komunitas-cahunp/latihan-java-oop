@@ -1,5 +1,5 @@
 public class sepeda{
-	int gir;
+	private int gir; // pertambahan private
 
 	void setGir(int pertambahanGir){
 		gir = gir + pertambahanGir;
