@@ -19,4 +19,35 @@ Ada perbedaan antara Abstraction dengan Encapsulation bisa di lihat [disini](htt
 ## Inheritance
 * suatu class dapat mewariskan atribut dan methode kepada class lain (subclass), serta membentuk class hierarchy.
 * Kemudian penting untuk dapat reusability.
-* Keyword Java adalah `Extends.`
+* Keyword Java-nya adalah `Extends`.
+
+Penggunaan keyword `Extends` bisa di lihat [disini](https://github.com/komunitas-cahunp/latihan-java-oop/commit/c889c42d0dbba9d9736fe7fc3f867743eb596546), yaitu pada `SepedaGunung.java` dan `SepedaGunungBeraksi.java`
+
+## Polymorphism
+* Kemampuan untuk memperlakukan object yang memiliki perilaku (bentuk) yang berbeda.
+* Implementasi konsep polymorphism:
+  1. Overloading: Kemampuan subclass untuk menggunakan nama yang sama untuk beberapa methode yang berbeda paramater (tipe dan atau jumlah).
+  2. Overriding: Kemampuan subclass untuk menimpa methode dari superclass, yaitu dengan cara menggunkan nama dan paramater yang sama pada methode.
+  3. contoh pemrograman Overloading :
+
+  ```java
+  class Lingkaran {
+    void GambarLingkaran(){
+      ....
+    }
+    void GambarLingkaran(int diamater){
+      ....
+    }
+    void GambarLingkaran(double diameter){
+      ....
+    }
+    Void GambarLingkaran(int diameter, int x, int y){
+      ....
+    }
+    void GambarLingkaran(int diameter, int x, int y, String warna, String namaLingkaran){
+      ....
+    }
+  }
+  ```
+
+  contoh pemrograman Overriding bisa lihat [disini]()
