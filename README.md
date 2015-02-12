@@ -27,8 +27,8 @@ Penggunaan keyword `Extends` bisa di lihat [disini](https://github.com/komunitas
 * Kemampuan untuk memperlakukan object yang memiliki perilaku (bentuk) yang berbeda.
 * Implementasi konsep polymorphism:
   1. Overloading: Kemampuan subclass untuk menggunakan nama yang sama untuk beberapa methode yang berbeda paramater (tipe dan atau jumlah).
-  2. Overriding: Kemampuan subclass untuk menimpa methode dari superclass, yaitu dengan cara menggunkan nama dan paramater yang sama pada methode.
-  3. contoh pemrograman Overloading :
+  1. Overriding: Kemampuan subclass untuk menimpa methode dari superclass, yaitu dengan cara menggunkan nama dan paramater yang sama pada methode.
+  1. contoh pemrograman Overloading :
 
   ```java
   class Lingkaran {
@@ -50,4 +50,8 @@ Penggunaan keyword `Extends` bisa di lihat [disini](https://github.com/komunitas
   }
   ```
 
-  contoh pemrograman Overriding bisa lihat [disini]()
+  contoh pemrograman Overriding bisa lihat [disini](https://github.com/komunitas-cahunp/latihan-java-oop/commit/4a29140af020c628e56745d9d398f02cdb5d99b8)
+
+## Sumber dan Bacaan
+* [Java Fundamentals](http://romisatriawahono.net/java/)
+* [Tutorialspoint](http://www.tutorialspoint.com/java/)
