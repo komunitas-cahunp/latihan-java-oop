@@ -1,3 +1,7 @@
+## Overview
+Semua program java yang ada disini hanya sebagai latihan saja tidak ada hubungannya dengan tugas,
+untuk mengetahui tugas harus didapatkan dikelas, jadi tugas tidak disertakan disini.
+
 ## Abstraction
 * Cara kita melihat suatu sistem dalam bentuk yang lebih sederhana, yaitu sebagai suatu kumpulan subsitem (Object) yang saling berintaksi
 * Alat untuk meng-abstraksikan sesuatu adalah class
@@ -53,5 +57,5 @@ Penggunaan keyword `Extends` bisa di lihat [disini](https://github.com/komunitas
   contoh pemrograman Overriding bisa lihat [disini](https://github.com/komunitas-cahunp/latihan-java-oop/commit/4a29140af020c628e56745d9d398f02cdb5d99b8)
 
 ## Sumber dan Bacaan
-* [Java Fundamentals](http://romisatriawahono.net/java/)
+* [Java Fundamentals](http://romisatriawahono.net/java/), Thanks for mas Romi.
 * [Tutorialspoint](http://www.tutorialspoint.com/java/)
